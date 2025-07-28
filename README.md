@@ -2,7 +2,7 @@
 
 **Realtime mock‑interview rooms with AI agents you design in seconds**
 
-Try it out! → https://peakinterviewsai.vercel.app
+Try it out! → https://peakinterviewsai.vercel.app (may not work due to project inactivity)
 
 ---
 
